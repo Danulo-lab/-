@@ -1,0 +1,10 @@
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR 2.csproj.AssemblyReference.cache
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR2.Form1.resources
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR_2.Properties.Resources.resources
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR 2.csproj.GenerateResource.cache
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR 2.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\bin\Debug\LR 2.exe.config
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\bin\Debug\LR 2.exe
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\bin\Debug\LR 2.pdb
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR 2.exe
+C:\Users\kalin\OneDrive\Документи\LR 2\LR 2\obj\Debug\LR 2.pdb
